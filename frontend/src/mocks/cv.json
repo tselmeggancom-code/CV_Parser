@@ -1,0 +1,79 @@
+{
+  "name": "Alex Morgan",
+  "email": "alex.morgan@example.com",
+  "phone": "07700 900123",
+  "location": "Leeds, UK",
+  "linkedin": "linkedin.com/in/example",
+  "summary": "Motivated junior software developer with a first-class degree in Computer Science and hands-on experience building web applications and data tools. Strong problem solver who enjoys working in small teams, learning quickly and shipping clean, well-tested code.",
+  "experience": [
+    {
+      "role": "Junior Software Developer",
+      "company": "Northbridge Digital Ltd",
+      "startDate": "Jul 2024",
+      "endDate": "Present",
+      "bullets": [
+        "Built and maintained customer-facing features in a React and Node.js web platform used by 20,000+ users.",
+        "Reduced average API response time by 35% by optimising database queries and adding caching.",
+        "Wrote unit and integration tests, raising code coverage from 52% to 81%.",
+        "Took part in code reviews and sprint planning within an agile team of six."
+      ]
+    },
+    {
+      "role": "Software Engineering Intern",
+      "company": "Brightwater Analytics",
+      "startDate": "Jun 2023",
+      "endDate": "Sep 2023",
+      "bullets": [
+        "Developed a Python dashboard that automated weekly reporting, saving the team roughly 5 hours a week.",
+        "Cleaned and analysed datasets of 500k+ rows using Pandas and presented findings to stakeholders."
+      ]
+    },
+    {
+      "role": "Sales Assistant (part-time)",
+      "company": "Harlow & Finch Retail",
+      "startDate": "Sep 2021",
+      "endDate": "May 2023",
+      "bullets": [
+        "Delivered friendly customer service in a busy store, consistently meeting weekly sales targets.",
+        "Trained three new colleagues on tills and stock systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "qualification": "BSc Computer Science (First Class)",
+      "institution": "Redfield University",
+      "startDate": "2021",
+      "endDate": "2024",
+      "bullets": [
+        "Final-year project: a recommendation engine for a campus events app (awarded 84%).",
+        "Relevant modules: Algorithms, Databases, Software Engineering, Machine Learning."
+      ]
+    },
+    {
+      "qualification": "A-Levels",
+      "institution": "Oakmere Sixth Form College",
+      "startDate": "2019",
+      "endDate": "2021",
+      "bullets": [
+        "Computer Science (A), Mathematics (A), Physics (B)."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Budget Buddy",
+      "description": "Personal finance tracker built with Python and SQLite, with charts and CSV import."
+    },
+    {
+      "name": "PixelQuest",
+      "description": "2D platformer game made in C# with a custom level editor."
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "TypeScript", "C#", "SQL"],
+    "tools": ["React", "Node.js", "Git", "Docker", "Pandas", "Jest"],
+    "soft": ["Teamwork", "Clear communication", "Time management"]
+  },
+  "interests": "Five-a-side football, board games, and volunteering at a weekend coding club for teenagers."
+}
